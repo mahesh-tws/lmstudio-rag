@@ -7,6 +7,6 @@ start_url = "https://thoughtswinsystems.com/"
 # Starting depth
 start_depth = 2
 
-#scrape(start_url, start_depth)
-#embed()
+scrape(start_url, start_depth)
+embed()
 startChat()

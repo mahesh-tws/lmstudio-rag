@@ -1,4 +1,4 @@
-A simple RAG example using LM Studio Server
+# A simple RAG example using LM Studio Server #
 
 Start LM Studio server running on port 1234.
 
