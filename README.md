@@ -4,7 +4,7 @@ Start LM Studio server running on port 1234.
 
 This repo performs 3 functions:
 
-1. Scrapes a website and follows links under the same path up to a maximum depth and outputs the scraped data to the data directory. 
+1. Scrapes a website and follows links under the same path up to a maximum depth and outputs the scraped data to the data directory. One can point to other data sources or utilize this as a starter.
 
 2. Runs an embedding model to embed the text into a Chroma vector database using disk storage (chroma_db directory)
 
